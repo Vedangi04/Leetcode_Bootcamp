@@ -1,1 +1,1 @@
-# Leetcode_Bootcamp
+This repository contains my homework solutions for the LeetCode Bootcamp. It includes solutions to selected algorithmic problems implemented in Python, each organized in its own folder with a `solution.py` file. The purpose of this repository is to practice problem-solving skills, improve coding efficiency, and maintain a structured record of solutions for future reference.
